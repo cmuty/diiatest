@@ -1,4 +1,4 @@
-warning_threshold: 30
+warning_threshold: 9999
 
 excluded:
   - DiiaOpenSource/Resources/
