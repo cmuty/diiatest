@@ -329,23 +329,23 @@ class NetworkManager: ObservableObject {
     
     struct UserData: Codable {
         let id: Int
-        let full_name: String
-        let birth_date: String
+        let fullName: String
+        let birthDate: String
         let login: String
-        let subscription_active: Bool
-        let subscription_type: String
-        let last_login: String?
-        let registered_at: String?
+        let subscriptionActive: Bool
+        let subscriptionType: String
+        let lastLogin: String?
+        let registeredAt: String?
         
         enum CodingKeys: String, CodingKey {
             case id
-            case full_name
-            case birth_date
+            case fullName = "full_name"
+            case birthDate = "birth_date"
             case login
-            case subscription_active
-            case subscription_type
-            case last_login
-            case registered_at
+            case subscriptionActive = "subscription_active"
+            case subscriptionType = "subscription_type"
+            case lastLogin = "last_login"
+            case registeredAt = "registered_at"
         }
     }
     
@@ -640,12 +640,12 @@ struct AuthView: View {
                 
                 if let userData = result.userData {
                     authManager.updateUserData(
-                        fullName: userData.full_name,
-                        birthDate: userData.birth_date,
+                        fullName: userData.fullName,
+                        birthDate: userData.birthDate,
                         userId: userData.id,
-                        subscriptionActive: userData.subscription_active,
-                        subscriptionType: userData.subscription_type,
-                        registeredAt: userData.registered_at
+                        subscriptionActive: userData.subscriptionActive,
+                        subscriptionType: userData.subscriptionType,
+                        registeredAt: userData.registeredAt
                     )
                     
                     Task {

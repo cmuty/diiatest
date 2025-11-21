@@ -1,3 +1,351 @@
+SwiftMergeGeneratedHeaders /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/GeneratedModuleMaps-iphoneos/DiiaDocumentsCore-Swift.h /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore-Swift.h (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-swiftHeaderTool -arch arm64 /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore-Swift.h -o /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/GeneratedModuleMaps-iphoneos/DiiaDocumentsCore-Swift.h
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocumentsCore.swiftmodule/arm64-apple-ios.abi.json /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.abi.json (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.abi.json /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocumentsCore.swiftmodule/arm64-apple-ios.abi.json
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocumentsCore.swiftmodule/arm64-apple-ios.swiftdoc /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.swiftdoc (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.swiftdoc /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocumentsCore.swiftmodule/arm64-apple-ios.swiftdoc
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocumentsCore.swiftmodule/arm64-apple-ios.swiftmodule /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.swiftmodule (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.swiftmodule /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocumentsCore.swiftmodule/arm64-apple-ios.swiftmodule
+
+Ld /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o normal (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios15.0 -r -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -Os -w -L/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/EagerLinkingTBDs/Release-iphoneos -L/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -L/Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/EagerLinkingTBDs/Release-iphoneos -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -iframework /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -iframework /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/Developer/Library/Frameworks -filelist /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.LinkFileList -nostdlib -Xlinker -object_path_lto -Xlinker /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore_lto.o -Xlinker -dependency_info -Xlinker /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.swiftmodule -o /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o
+
+GenerateAssetSymbols /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/Resources/Media.xcassets (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /Applications/Xcode-16.4.app/Contents/Developer/usr/bin/actool /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/Resources/Media.xcassets --compile /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos --output-format human-readable-text --notices --warnings --export-dependency-info /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/assetcatalog_dependencies --output-partial-info-plist /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/assetcatalog_generated_info.plist --compress-pngs --enable-on-demand-resources NO --development-region uk --target-device iphone --target-device ipad --minimum-deployment-target 15.0 --platform iphoneos --bundle-identifier ios-documents.DiiaDocuments --generate-swift-asset-symbol-extensions NO --generate-swift-asset-symbols /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols.swift --generate-objc-asset-symbols /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols.h --generate-asset-symbol-index /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols-Index.plist
+/* com.apple.actool.compilation-results */
+/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols-Index.plist
+/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols.h
+/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols.swift
+
+
+SwiftDriver DiiaDocuments normal arm64 com.apple.xcode.tools.swift.compiler (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/clone/DiiaOpenSource.xcodeproj
+    builtin-SwiftDriver -- /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name DiiaDocuments -O -whole-module-optimization -enforce-exclusivity\=checked @/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.SwiftFileList -DSWIFT_PACKAGE -DXcode -plugin-path /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -target arm64-apple-ios15.0 -g -module-cache-path /Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -suppress-warnings -swift-version 5 -I /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -I /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -F /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -F /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/Developer/Library/Frameworks -emit-localized-strings -emit-localized-strings-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64 -c -num-threads 8 -Xcc -ivfsstatcache -Xcc /Users/builder/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphoneos18.5-22F76-a923edb92cfa4854eb4e1df82271f812.sdkstatcache -output-file-map /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments_const_extract_protocols.json -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources-normal/arm64 -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/arm64 -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources -Xcc -DSWIFT_PACKAGE -emit-objc-header -emit-objc-header-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-Swift.h -working-directory /Users/builder/clone/DiiaOpenSource.xcodeproj -no-emit-module-separately-wmo
+
+SwiftCompile normal arm64 Compiling\ resource_bundle_accessor.swift,\ DriverLicenseContext.swift,\ DriverLicenseStatus+Extensions.swift,\ DriverLicenseStatus.swift,\ PackageConstants.swift,\ DriverLicenseDocumentStorage.swift,\ DriverLicenseViewModel.swift,\ R+Images.swift,\ R+Strings.swift,\ GeneratedAssetSymbols.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/resource_bundle_accessor.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/DriverLicense/DriverLicenseContext.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/DriverLicense/Models/DriverLicenseStatus+Extensions.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/DriverLicense/Models/DriverLicenseStatus.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/DriverLicense/PackageConstants.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/DriverLicense/Protocols/DriverLicenseDocumentStorage.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/DriverLicense/ViewModels/DriverLicenseViewModel.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/Resources/R+Images.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents/Sources/Documents/Resources/R+Strings.swift /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/GeneratedAssetSymbols.swift (in target 'DiiaDocuments' from project 'DiiaDocuments')
+
+CompileSwift normal arm64 (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/clone/DiiaOpenSource.xcodeproj
+    
+
+SwiftDriver\ Compilation DiiaDocuments normal arm64 com.apple.xcode.tools.swift.compiler (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/clone/DiiaOpenSource.xcodeproj
+    builtin-Swift-Compilation -- /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name DiiaDocuments -O -whole-module-optimization -enforce-exclusivity\=checked @/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.SwiftFileList -DSWIFT_PACKAGE -DXcode -plugin-path /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -target arm64-apple-ios15.0 -g -module-cache-path /Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -suppress-warnings -swift-version 5 -I /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -I /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -F /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -F /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/Developer/Library/Frameworks -emit-localized-strings -emit-localized-strings-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64 -c -num-threads 8 -Xcc -ivfsstatcache -Xcc /Users/builder/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphoneos18.5-22F76-a923edb92cfa4854eb4e1df82271f812.sdkstatcache -output-file-map /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments_const_extract_protocols.json -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources-normal/arm64 -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/arm64 -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources -Xcc -DSWIFT_PACKAGE -emit-objc-header -emit-objc-header-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-Swift.h -working-directory /Users/builder/clone/DiiaOpenSource.xcodeproj -no-emit-module-separately-wmo
+
+ExtractAppIntentsMetadata (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --module-name DiiaDocumentsCore --sdk-root /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk --xcode-version 16F6 --platform-family iOS --deployment-target 15.0 --bundle-identifier ios-documents.DiiaDocumentsCore --output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.appintents --target-triple arm64-apple-ios15.0 --binary-file /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o --dependency-file /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore_dependency_info.dat --stringsdata-file /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.SwiftFileList --metadata-file-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/DiiaDocumentsCore.DependencyMetadataFileList --static-metadata-file-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/DiiaDocumentsCore.DependencyStaticMetadataFileList --swift-const-vals-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocumentsCore.build/Objects-normal/arm64/DiiaDocumentsCore.SwiftConstValuesFileList --force --compile-time-extraction --deployment-aware-processing --validate-assistant-intents --no-app-shortcuts-localization
+2025-11-21 10:20:23.957 appintentsmetadataprocessor[3606:20355] Starting appintentsmetadataprocessor export
+2025-11-21 10:20:23.989 appintentsmetadataprocessor[3606:20355] Extracted no relevant App Intents symbols, skipping writing output
+
+SetOwnerAndGroup builder:staff /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /usr/sbin/chown -RH builder:staff /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o
+
+SetMode u+w,go-w,a+rX /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /bin/chmod -RH u+w,go-w,a+rX /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o
+
+RegisterExecutionPolicyException /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-RegisterExecutionPolicyException /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocumentsCore.o
+
+SwiftDriverJobDiscovery normal arm64 Compiling resource_bundle_accessor.swift, DriverLicenseContext.swift, DriverLicenseStatus+Extensions.swift, DriverLicenseStatus.swift, PackageConstants.swift, DriverLicenseDocumentStorage.swift, DriverLicenseViewModel.swift, R+Images.swift, R+Strings.swift, GeneratedAssetSymbols.swift (in target 'DiiaDocuments' from project 'DiiaDocuments')
+
+SwiftDriver\ Compilation\ Requirements DiiaDocuments normal arm64 com.apple.xcode.tools.swift.compiler (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/clone/DiiaOpenSource.xcodeproj
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name DiiaDocuments -O -whole-module-optimization -enforce-exclusivity\=checked @/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.SwiftFileList -DSWIFT_PACKAGE -DXcode -plugin-path /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -target arm64-apple-ios15.0 -g -module-cache-path /Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -suppress-warnings -swift-version 5 -I /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -I /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -F /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -F /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/Developer/Library/Frameworks -emit-localized-strings -emit-localized-strings-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64 -c -num-threads 8 -Xcc -ivfsstatcache -Xcc /Users/builder/Library/Developer/Xcode/DerivedData/SDKStatCaches.noindex/iphoneos18.5-22F76-a923edb92cfa4854eb4e1df82271f812.sdkstatcache -output-file-map /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments_const_extract_protocols.json -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources-normal/arm64 -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources/arm64 -Xcc -I/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DerivedSources -Xcc -DSWIFT_PACKAGE -emit-objc-header -emit-objc-header-path /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-Swift.h -working-directory /Users/builder/clone/DiiaOpenSource.xcodeproj -no-emit-module-separately-wmo
+
+SwiftMergeGeneratedHeaders /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/GeneratedModuleMaps-iphoneos/DiiaDocuments-Swift.h /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-Swift.h (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-swiftHeaderTool -arch arm64 /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments-Swift.h -o /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/GeneratedModuleMaps-iphoneos/DiiaDocuments-Swift.h
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocuments.swiftmodule/arm64-apple-ios.swiftdoc /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftdoc (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftdoc /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocuments.swiftmodule/arm64-apple-ios.swiftdoc
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocuments.swiftmodule/arm64-apple-ios.swiftmodule /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftmodule (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftmodule /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocuments.swiftmodule/arm64-apple-ios.swiftmodule
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocuments.swiftmodule/arm64-apple-ios.abi.json /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.abi.json (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -rename /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.abi.json /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/DiiaDocuments.swiftmodule/arm64-apple-ios.abi.json
+
+Ld /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o normal (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios15.0 -r -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -Os -w -L/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/EagerLinkingTBDs/Release-iphoneos -L/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -L/Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/EagerLinkingTBDs/Release-iphoneos -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks -F/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos -iframework /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -iframework /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk/Developer/Library/Frameworks -filelist /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.LinkFileList -nostdlib -Xlinker -object_path_lto -Xlinker /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments_lto.o -Xlinker -dependency_info -Xlinker /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.swiftmodule -o /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o
+
+ExtractAppIntentsMetadata (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --module-name DiiaDocuments --sdk-root /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk --xcode-version 16F6 --platform-family iOS --deployment-target 15.0 --bundle-identifier ios-documents.DiiaDocuments --output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.appintents --target-triple arm64-apple-ios15.0 --binary-file /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o --dependency-file /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments_dependency_info.dat --stringsdata-file /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.SwiftFileList --metadata-file-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DiiaDocuments.DependencyMetadataFileList --static-metadata-file-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/DiiaDocuments.DependencyStaticMetadataFileList --swift-const-vals-list /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaDocuments.build/Release-iphoneos/DiiaDocuments.build/Objects-normal/arm64/DiiaDocuments.SwiftConstValuesFileList --force --compile-time-extraction --deployment-aware-processing --validate-assistant-intents --no-app-shortcuts-localization
+2025-11-21 10:20:24.748 appintentsmetadataprocessor[3612:20381] Starting appintentsmetadataprocessor export
+2025-11-21 10:20:24.778 appintentsmetadataprocessor[3612:20381] Extracted no relevant App Intents symbols, skipping writing output
+
+SetOwnerAndGroup builder:staff /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /usr/sbin/chown -RH builder:staff /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o
+
+SetMode u+w,go-w,a+rX /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    /bin/chmod -RH u+w,go-w,a+rX /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o
+
+RegisterExecutionPolicyException /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o (in target 'DiiaDocuments' from project 'DiiaDocuments')
+    cd /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/ios-documents
+    builtin-RegisterExecutionPolicyException /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/DiiaDocuments.o
+
+PhaseScriptExecution Swiftlint\ Run\ Script /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/Script-332235FC2B86640A00E6B7AF.sh (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+    cd /Users/builder/clone
+    export ACTION\=install
+    export AD_HOC_CODE_SIGNING_ALLOWED\=NO
+    export AGGREGATE_TRACKED_DOMAINS\=YES
+    export ALLOW_BUILD_REQUEST_OVERRIDES\=NO
+    export ALLOW_TARGET_PLATFORM_SPECIALIZATION\=NO
+    export ALTERNATE_GROUP\=staff
+    export ALTERNATE_MODE\=u+w,go-w,a+rX
+    export ALTERNATE_OWNER\=builder
+    export ALTERNATIVE_DISTRIBUTION_WEB\=NO
+    export ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES\=NO
+    export ALWAYS_SEARCH_USER_PATHS\=NO
+    export ALWAYS_USE_SEPARATE_HEADERMAPS\=NO
+    export APPLICATION_EXTENSION_API_ONLY\=NO
+    export APPLY_RULES_IN_COPY_FILES\=NO
+    export APPLY_RULES_IN_COPY_HEADERS\=NO
+    export APP_SHORTCUTS_ENABLE_FLEXIBLE_MATCHING\=YES
+    export ARCHS\=arm64
+    export ARCHS_STANDARD\=arm64
+    export ARCHS_STANDARD_32_64_BIT\=armv7\ arm64
+    export ARCHS_STANDARD_32_BIT\=armv7
+    export ARCHS_STANDARD_64_BIT\=arm64
+    export ARCHS_STANDARD_INCLUDING_64_BIT\=arm64
+    export ARCHS_UNIVERSAL_IPHONE_OS\=armv7\ arm64
+    export ASSETCATALOG_COMPILER_APPICON_NAME\=AppIcon
+    export ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/ProductIcon.png
+    export ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME\=AccentColor
+    export ASSET_PACK_FOLDER_PATH\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/OnDemandResources
+    export AUTOMATICALLY_MERGE_DEPENDENCIES\=NO
+    export AVAILABLE_PLATFORMS\=android\ appletvos\ appletvsimulator\ driverkit\ iphoneos\ iphonesimulator\ macosx\ qnx\ watchos\ watchsimulator\ xros\ xrsimulator
+    export BITCODE_GENERATION_MODE\=bitcode
+    export BUILD_ACTIVE_RESOURCES_ONLY\=NO
+    export BUILD_COMPONENTS\=headers\ build
+    export BUILD_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath
+    export BUILD_LIBRARY_FOR_DISTRIBUTION\=NO
+    export BUILD_ROOT\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath
+    export BUILD_STYLE\=
+    export BUILD_VARIANTS\=normal
+    export BUILT_PRODUCTS_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos
+    export BUNDLE_CONTENTS_FOLDER_PATH_deep\=Contents/
+    export BUNDLE_EXECUTABLE_FOLDER_NAME_deep\=MacOS
+    export BUNDLE_EXTENSIONS_FOLDER_PATH\=Extensions
+    export BUNDLE_FORMAT\=shallow
+    export BUNDLE_FRAMEWORKS_FOLDER_PATH\=Frameworks
+    export BUNDLE_PLUGINS_FOLDER_PATH\=PlugIns
+    export BUNDLE_PRIVATE_HEADERS_FOLDER_PATH\=PrivateHeaders
+    export BUNDLE_PUBLIC_HEADERS_FOLDER_PATH\=Headers
+    export CACHE_ROOT\=/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/C/com.apple.DeveloperTools/16.4-16F6/Xcode
+    export CCHROOT\=/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/C/com.apple.DeveloperTools/16.4-16F6/Xcode
+    export CHMOD\=/bin/chmod
+    export CHOWN\=/usr/sbin/chown
+    export CLANG_ANALYZER_NONNULL\=YES
+    export CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION\=YES_AGGRESSIVE
+    export CLANG_CACHE_FINE_GRAINED_OUTPUTS\=YES
+    export CLANG_CXX_LANGUAGE_STANDARD\=gnu++20
+    export CLANG_ENABLE_EXPLICIT_MODULES\=YES
+    export CLANG_ENABLE_MODULES\=YES
+    export CLANG_ENABLE_OBJC_ARC\=YES
+    export CLANG_ENABLE_OBJC_WEAK\=YES
+    export CLANG_MODULES_BUILD_SESSION_FILE\=/Users/builder/Library/Developer/Xcode/DerivedData/ModuleCache.noindex/Session.modulevalidation
+    export CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING\=YES
+    export CLANG_WARN_BOOL_CONVERSION\=YES
+    export CLANG_WARN_COMMA\=YES
+    export CLANG_WARN_CONSTANT_CONVERSION\=YES
+    export CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS\=YES
+    export CLANG_WARN_DIRECT_OBJC_ISA_USAGE\=YES_ERROR
+    export CLANG_WARN_DOCUMENTATION_COMMENTS\=YES
+    export CLANG_WARN_EMPTY_BODY\=YES
+    export CLANG_WARN_ENUM_CONVERSION\=YES
+    export CLANG_WARN_INFINITE_RECURSION\=YES
+    export CLANG_WARN_INT_CONVERSION\=YES
+    export CLANG_WARN_NON_LITERAL_NULL_CONVERSION\=YES
+    export CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF\=YES
+    export CLANG_WARN_OBJC_LITERAL_CONVERSION\=YES
+    export CLANG_WARN_OBJC_ROOT_CLASS\=YES_ERROR
+    export CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER\=YES
+    export CLANG_WARN_RANGE_LOOP_ANALYSIS\=YES
+    export CLANG_WARN_STRICT_PROTOTYPES\=YES
+    export CLANG_WARN_SUSPICIOUS_MOVE\=YES
+    export CLANG_WARN_UNGUARDED_AVAILABILITY\=YES_AGGRESSIVE
+    export CLANG_WARN_UNREACHABLE_CODE\=YES
+    export CLANG_WARN__DUPLICATE_METHOD_MATCH\=YES
+    export CLASS_FILE_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/JavaClasses
+    export CLEAN_PRECOMPS\=YES
+    export CLONE_HEADERS\=NO
+    export CODESIGNING_FOLDER_PATH\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
+    export CODE_SIGNING_ALLOWED\=NO
+    export CODE_SIGNING_REQUIRED\=NO
+    export CODE_SIGN_CONTEXT_CLASS\=XCiPhoneOSCodeSignContext
+    export CODE_SIGN_INJECT_BASE_ENTITLEMENTS\=YES
+    export CODE_SIGN_STYLE\=Manual
+    export COLOR_DIAGNOSTICS\=NO
+    export COMBINE_HIDPI_IMAGES\=NO
+    export COMPILATION_CACHE_CAS_PATH\=/Users/builder/Library/Developer/Xcode/DerivedData/CompilationCache.noindex
+    export COMPILATION_CACHE_KEEP_CAS_DIRECTORY\=YES
+    export COMPILER_INDEX_STORE_ENABLE\=Default
+    export COMPOSITE_SDK_DIRS\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/CompositeSDKs
+    export COMPRESS_PNG_FILES\=YES
+    export CONFIGURATION\=Release
+    export CONFIGURATION_BUILD_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos
+    export CONFIGURATION_TEMP_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos
+    export CONTENTS_FOLDER_PATH\=DiiaOpenSource.app
+    export CONTENTS_FOLDER_PATH_SHALLOW_BUNDLE_NO\=DiiaOpenSource.app/Contents
+    export CONTENTS_FOLDER_PATH_SHALLOW_BUNDLE_YES\=DiiaOpenSource.app
+    export COPYING_PRESERVES_HFS_DATA\=NO
+    export COPY_HEADERS_RUN_UNIFDEF\=NO
+    export COPY_PHASE_STRIP\=NO
+    export CORRESPONDING_SIMULATOR_PLATFORM_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform
+    export CORRESPONDING_SIMULATOR_PLATFORM_NAME\=iphonesimulator
+    export CORRESPONDING_SIMULATOR_SDK_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.5.sdk
+    export CORRESPONDING_SIMULATOR_SDK_NAME\=iphonesimulator18.5
+    export CP\=/bin/cp
+    export CREATE_INFOPLIST_SECTION_IN_BINARY\=NO
+    export CURRENT_ARCH\=undefined_arch
+    export CURRENT_PROJECT_VERSION\=2050
+    export CURRENT_VARIANT\=normal
+    export DEAD_CODE_STRIPPING\=YES
+    export DEBUGGING_SYMBOLS\=YES
+    export DEBUG_INFORMATION_FORMAT\=dwarf-with-dsym
+    export DEBUG_INFORMATION_VERSION\=compiler-default
+    export DEFAULT_COMPILER\=com.apple.compilers.llvm.clang.1_0
+    export DEFAULT_DEXT_INSTALL_PATH\=/System/Library/DriverExtensions
+    export DEFAULT_KEXT_INSTALL_PATH\=/System/Library/Extensions
+    export DEFINES_MODULE\=NO
+    export DEPLOYMENT_LOCATION\=YES
+    export DEPLOYMENT_POSTPROCESSING\=YES
+    export DEPLOYMENT_TARGET_SETTING_NAME\=IPHONEOS_DEPLOYMENT_TARGET
+    export DEPLOYMENT_TARGET_SUGGESTED_VALUES\=12.0\ 12.1\ 12.2\ 12.3\ 12.4\ 13.0\ 13.1\ 13.2\ 13.3\ 13.4\ 13.5\ 13.6\ 14.0\ 14.1\ 14.2\ 14.3\ 14.4\ 14.5\ 14.6\ 14.7\ 15.0\ 15.1\ 15.2\ 15.3\ 15.4\ 15.5\ 15.6\ 16.0\ 16.1\ 16.2\ 16.3\ 16.4\ 16.5\ 16.6\ 17.0\ 17.1\ 17.2\ 17.3\ 17.4\ 17.5\ 17.6\ 18.0\ 18.1\ 18.2\ 18.3\ 18.4\ 18.5
+    export DERIVED_FILES_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/DerivedSources
+    export DERIVED_FILE_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/DerivedSources
+    export DERIVED_SOURCES_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/DerivedSources
+    export DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER\=NO
+    export DEVELOPER_APPLICATIONS_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Applications
+    export DEVELOPER_BIN_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/usr/bin
+    export DEVELOPER_DIR\=/Applications/Xcode-16.4.app/Contents/Developer
+    export DEVELOPER_FRAMEWORKS_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Library/Frameworks
+    export DEVELOPER_FRAMEWORKS_DIR_QUOTED\=/Applications/Xcode-16.4.app/Contents/Developer/Library/Frameworks
+    export DEVELOPER_LIBRARY_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Library
+    export DEVELOPER_SDK_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs
+    export DEVELOPER_TOOLS_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Tools
+    export DEVELOPER_USR_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/usr
+    export DEVELOPMENT_LANGUAGE\=en
+    export DIAGNOSE_MISSING_TARGET_DEPENDENCIES\=YES
+    export DIFF\=/usr/bin/diff
+    export DOCUMENTATION_FOLDER_PATH\=DiiaOpenSource.app/en.lproj/Documentation
+    export DONT_GENERATE_INFOPLIST_FILE\=NO
+    export DSTROOT\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation
+    export DT_TOOLCHAIN_DIR\=/Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain
+    export DWARF_DSYM_FILE_NAME\=DiiaOpenSource.app.dSYM
+    export DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT\=NO
+    export DWARF_DSYM_FOLDER_PATH\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos
+    export DYNAMIC_LIBRARY_EXTENSION\=dylib
+    export EAGER_COMPILATION_ALLOW_SCRIPTS\=NO
+    export EAGER_LINKING\=NO
+    export EFFECTIVE_PLATFORM_NAME\=-iphoneos
+    export EMBEDDED_CONTENT_CONTAINS_SWIFT\=NO
+    export EMBEDDED_PROFILE_NAME\=embedded.mobileprovision
+    export EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE\=NO
+    export EMBED_PACKAGE_RESOURCE_BUNDLE_NAMES\=\ DiiaAuthorization_DiiaAuthorizationMethods\ DiiaAuthorization_DiiaAuthorization\ DiiaPublicServices_DiiaPublicServices\ Firebase_FirebaseCrashlytics\ Firebase_FirebaseCoreInternal\ Firebase_FirebaseCore\ Firebase_FirebaseInstallations\ Firebase_FirebaseCoreExtension\ GoogleDataTransport_GoogleDataTransport\ Promises_Promises\ Promises_FBLPromises\ nanopb_nanopb\ GoogleUtilities_GoogleUtilities-UserDefaults\ GoogleUtilities_GoogleUtilities-Environment\ GoogleUtilities_GoogleUtilities-Logger\ GoogleUtilities_GoogleUtilities-NSData\ DiiaUIComponents_DiiaUIComponents\ Kingfisher_Kingfisher\ SwiftMessages_SwiftMessages\ DiiaDocuments_DiiaDocuments\ DiiaDocuments_DiiaDocumentsCommonTypes\ DiiaDocuments_DiiaDocumentsCore\ GoogleUtilities_GoogleUtilities-Network\ GoogleUtilities_GoogleUtilities-Reachability\ GoogleUtilities_GoogleUtilities-MethodSwizzler\ GoogleUtilities_GoogleUtilities-AppDelegateSwizzler\ DiiaCommonServices_DiiaCommonServices\ DiiaAuthorization_DiiaAuthorizationPinCode
+    export ENABLE_APP_SANDBOX\=NO
+    export ENABLE_BITCODE\=NO
+    export ENABLE_CODE_COVERAGE\=YES
+    export ENABLE_DEBUG_DYLIB\=NO
+    export ENABLE_DEFAULT_HEADER_SEARCH_PATHS\=YES
+    export ENABLE_DEFAULT_SEARCH_PATHS\=YES
+    export ENABLE_HARDENED_RUNTIME\=NO
+    export ENABLE_HEADER_DEPENDENCIES\=YES
+    export ENABLE_INCOMING_NETWORK_CONNECTIONS\=NO
+    export ENABLE_NS_ASSERTIONS\=NO
+    export ENABLE_ON_DEMAND_RESOURCES\=YES
+    export ENABLE_OUTGOING_NETWORK_CONNECTIONS\=NO
+    export ENABLE_PREVIEWS\=NO
+    export ENABLE_RESOURCE_ACCESS_AUDIO_INPUT\=NO
+    export ENABLE_RESOURCE_ACCESS_BLUETOOTH\=NO
+    export ENABLE_RESOURCE_ACCESS_CALENDARS\=NO
+    export ENABLE_RESOURCE_ACCESS_CAMERA\=NO
+    export ENABLE_RESOURCE_ACCESS_CONTACTS\=NO
+    export ENABLE_RESOURCE_ACCESS_LOCATION\=NO
+    export ENABLE_RESOURCE_ACCESS_PRINTING\=NO
+    export ENABLE_RESOURCE_ACCESS_USB\=NO
+    export ENABLE_SDK_IMPORTS\=NO
+    export ENABLE_SIGNATURE_AGGREGATION\=YES
+    export ENABLE_STRICT_OBJC_MSGSEND\=YES
+    export ENABLE_TESTABILITY\=NO
+    export ENABLE_TESTING_SEARCH_PATHS\=NO
+    export ENABLE_USER_SCRIPT_SANDBOXING\=NO
+    export ENABLE_XOJIT_PREVIEWS\=NO
+    export ENFORCE_VALID_ARCHS\=YES
+    export ENTITLEMENTS_ALLOWED\=YES
+    export ENTITLEMENTS_DESTINATION\=Signature
+    export ENTITLEMENTS_REQUIRED\=NO
+    export EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS\=.DS_Store\ .svn\ .git\ .hg\ CVS
+    export EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES\=\*.nib\ \*.lproj\ \*.framework\ \*.gch\ \*.xcode\*\ \*.xcassets\ \(\*\)\ .DS_Store\ CVS\ .svn\ .git\ .hg\ \*.pbproj\ \*.pbxproj
+    export EXECUTABLES_FOLDER_PATH\=DiiaOpenSource.app/Executables
+    export EXECUTABLE_FOLDER_PATH\=DiiaOpenSource.app
+    export EXECUTABLE_FOLDER_PATH_SHALLOW_BUNDLE_NO\=DiiaOpenSource.app/MacOS
+    export EXECUTABLE_FOLDER_PATH_SHALLOW_BUNDLE_YES\=DiiaOpenSource.app
+    export EXECUTABLE_NAME\=DiiaOpenSource
+    export EXECUTABLE_PATH\=DiiaOpenSource.app/DiiaOpenSource
+    export EXTENSIONS_FOLDER_PATH\=DiiaOpenSource.app/Extensions
+    export FILE_LIST\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/Objects/LinkFileList
+    export FIXED_FILES_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/FixedFiles
+    export FRAMEWORKS_FOLDER_PATH\=DiiaOpenSource.app/Frameworks
+    export FRAMEWORK_FLAG_PREFIX\=-framework
+    export FRAMEWORK_SEARCH_PATHS\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/PackageFrameworks\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos\ 
+    export FRAMEWORK_VERSION\=A
+    export FULL_PRODUCT_NAME\=DiiaOpenSource.app
+    export FUSE_BUILD_PHASES\=YES
+    export FUSE_BUILD_SCRIPT_PHASES\=NO
+    export GCC3_VERSION\=3.3
+    export GCC_C_LANGUAGE_STANDARD\=gnu11
+    export GCC_DYNAMIC_NO_PIC\=NO
+    export GCC_INLINES_ARE_PRIVATE_EXTERN\=YES
+    export GCC_NO_COMMON_BLOCKS\=YES
+    export GCC_PFE_FILE_C_DIALECTS\=c\ objective-c\ c++\ objective-c++
+    export GCC_SYMBOLS_PRIVATE_EXTERN\=YES
+    export GCC_THUMB_SUPPORT\=YES
+    export GCC_TREAT_WARNINGS_AS_ERRORS\=NO
+    export GCC_VERSION\=com.apple.compilers.llvm.clang.1_0
+    export GCC_VERSION_IDENTIFIER\=com_apple_compilers_llvm_clang_1_0
+    export GCC_WARN_64_TO_32_BIT_CONVERSION\=YES
+    export GCC_WARN_ABOUT_RETURN_TYPE\=YES_ERROR
+    export GCC_WARN_UNDECLARED_SELECTOR\=YES
+    export GCC_WARN_UNINITIALIZED_AUTOS\=YES_AGGRESSIVE
+    export GCC_WARN_UNUSED_FUNCTION\=YES
+    export GCC_WARN_UNUSED_VARIABLE\=YES
+    export GENERATED_MODULEMAP_DIR\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/GeneratedModuleMaps-iphoneos
+    export GENERATE_INFOPLIST_FILE\=YES
+    export GENERATE_INTERMEDIATE_TEXT_BASED_STUBS\=YES
+    export GENERATE_MASTER_OBJECT_FILE\=NO
+    export GENERATE_PKGINFO_FILE\=YES
+    export GENERATE_PROFILING_CODE\=NO
+    export GENERATE_TEXT_BASED_STUBS\=NO
+    export GID\=20
+    export GROUP\=staff
+    export HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT\=YES
+    export HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES\=YES
+    export HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_TARGETS_NOT_BEING_BUILT\=YES
+    export HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS\=YES
+    export HEADERMAP_INCLUDES_PROJECT_HEADERS\=YES
+    export HEADERMAP_USES_FRAMEWORK_PREFIX_ENTRIES\=YES
+    export HEADERMAP_USES_VFS\=NO
     export HEADER_SEARCH_PATHS\=/Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleAppMeasurement/GoogleAppMeasurementWrapper/include\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Reachability/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Network/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsWrapper/include\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/SwiftPM-PlatformExclude/FirebaseAnalyticsWrap/include\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/NSData+zlib/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Logger/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/Environment/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/third_party/IsAppEncrypted/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/UserDefaults/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/nanopb/spm_headers\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/promises/Sources/FBLPromises/include\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/FirebaseSessions/SourcesObjC\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Extension/.\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/FirebaseInstallations/Source/Library/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Sources/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/CoreOnly/Sources/.\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public\ /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/include\ 
     export HIDE_BITCODE_SYMBOLS\=YES
     export HOME\=/Users/builder
@@ -331,127 +679,40 @@
     export variant\=normal
     /bin/sh -c /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/IntermediateBuildFilesPath/DiiaOpenSource.build/Release-iphoneos/DiiaOpenSource.build/Script-332235FC2B86640A00E6B7AF.sh
 Linting Swift files in current working directory
-Linting '___FILEBASENAME___MainModule.swift' (1/183)
-Linting '___FILEBASENAME___MainPresenter.swift' (2/183)
-Linting '___FILEBASENAME___OnboardingModule.swift' (3/183)
-Linting '___FILEBASENAME___OnboardingPresenter.swift' (4/183)
-Linting '___FILEBASENAME___API.swift' (5/183)
-Linting '___FILEBASENAME___APIClient.swift' (6/183)
-Linting '___FILEBASENAME___StatusModule.swift' (7/183)
-Linting '___FILEBASENAME___StatusPresenter.swift' (8/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainModule.swift:10:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainModule.swift:16:44: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainModule.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainModule.swift:8:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift' (9/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainPresenter.swift:18:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainPresenter.swift:26:43: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainPresenter.swift:26:100: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainPresenter.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Main/___FILEBASENAME___MainPresenter.swift:11:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift' (10/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusModule.swift:10:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusModule.swift:18:44: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusModule.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusModule.swift:8:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift' (11/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingModule.swift:10:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingModule.swift:12:130: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingModule.swift:14:44: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingModule.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingModule.swift:8:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift' (12/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusPresenter.swift:17:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusPresenter.swift:29:43: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusPresenter.swift:29:100: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusPresenter.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Status/___FILEBASENAME___StatusPresenter.swift:11:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift' (13/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingPresenter.swift:17:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingPresenter.swift:26:43: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingPresenter.swift:26:100: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingPresenter.swift:109:58: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingPresenter.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/___FILEBASENAME___Onboarding/___FILEBASENAME___OnboardingPresenter.swift:11:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:42:66: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:44:66: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:46:66: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:42:66: warning: Switch and Case Statement Alignment Violation: Case statements should vertically aligned with their closing brace (switch_case_alignment)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:44:66: warning: Switch and Case Statement Alignment Violation: Case statements should vertically aligned with their closing brace (switch_case_alignment)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___API.swift:7:6: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___APIClient.swift:15:72: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___APIClient.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___APIClient.swift:9:10: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___Protocol' should only contain alphanumeric and other allowed characters (type_name)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Public Service.xctemplate/___FILEBASENAME___/Common/API/___FILEBASENAME___APIClient.swift:15:7: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting '___FILEBASENAME___ViewController.swift' (15/183)
-Linting 'CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift' (16/183)
-Linting 'AppRouter.swift' (14/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:10:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:14:44: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:8:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'ActionSheetV2ViewController.swift' (17/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:10:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:17:44: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:8:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'AnaliticsNetworkAdapter.swift' (18/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:9:46: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:10:51: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:16:39: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:17:44: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Module.swift:8:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'CommonService+Defaults.swift' (19/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Modal Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:11:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'AuthorizationInterceptor.swift' (20/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:11:33: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:16:68: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:19:46: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:28:38: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:11:10: error: Type Name Violation: Type name '___VARIABLE_productName' should only contain alphanumeric and other allowed characters (type_name)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:16:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'HTTPStatusCodeAdapter.swift' (21/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module.xctemplate/___FILEBASENAME___/___FILEBASENAME___Presenter.swift:11:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'JSONDecoderConfig.swift' (22/183)
-Linting 'NetworkConfigurator.swift' (23/183)
-Linting 'UIView+CustomCorners.swift' (24/183)
+Linting 'AppRouter.swift' (1/168)
+Linting 'ActionSheetV2ViewController.swift' (2/168)
+Linting 'AnaliticsNetworkAdapter.swift' (3/168)
+Linting 'CommonService+Defaults.swift' (4/168)
+Linting 'AuthorizationInterceptor.swift' (5/168)
+Linting 'HTTPStatusCodeAdapter.swift' (6/168)
+Linting 'JSONDecoderConfig.swift' (7/168)
+Linting 'NetworkConfigurator.swift' (8/168)
+Linting 'UIView+CustomCorners.swift' (9/168)
+Linting 'UIView+GradientAnimation.swift' (10/168)
+Linting 'UIScreen+Brightness.swift' (11/168)
+Linting 'BasePresenter+Support.swift' (12/168)
 /Users/builder/clone/DiiaOpenSource/Common/Networking/AuthorizationInterceptor.swift:116:25: warning: Void Function in Ternary Violation: Using ternary to call Void functions should be avoided (void_function_in_ternary)
-Linting 'UIView+GradientAnimation.swift' (25/183)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:8:33: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:27:43: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:78:66: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:1:3: warning: Comment Spacing Violation: Prefer at least one space after slashes for comments (comment_spacing)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:54:29: warning: Empty Parentheses with Trailing Closure Violation: When using trailing closures, empty parentheses should be avoided after the method call (empty_parentheses_with_trailing_closure)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:8:10: error: Type Name Violation: Type name '___VARIABLE_productName' should only contain alphanumeric and other allowed characters (type_name)
-/Users/builder/clone/CodeGeneration/Code Generation Templates/Module with Xib.xctemplate/___FILEBASENAME___/___FILEBASENAME___ViewController.swift:13:13: error: Type Name Violation: Type name '___FILEBASENAMEASIDENTIFIER___' should only contain alphanumeric and other allowed characters (type_name)
-Linting 'UIScreen+Brightness.swift' (26/183)
-Linting 'BasePresenter+Support.swift' (27/183)
-Linting 'Formatter+Extension.swift' (28/183)
-Linting 'String+Ext.swift' (29/183)
-Linting 'NibLoadable+Extension.swift' (30/183)
-Linting 'MainDeeplinkRouter.swift' (31/183)
-Linting 'DeepLinkRoute.swift' (32/183)
-Linting 'DeepLinkParameter.swift' (33/183)
+Linting 'Formatter+Extension.swift' (13/168)
+Linting 'String+Ext.swift' (14/168)
+Linting 'NibLoadable+Extension.swift' (15/168)
+Linting 'MainDeeplinkRouter.swift' (16/168)
+Linting 'DeepLinkRoute.swift' (17/168)
+Linting 'DeepLinkParameter.swift' (18/168)
 /Users/builder/clone/DiiaOpenSource/Common/Extensions/String+Ext.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'DeepLinkManager.swift' (34/183)
-Linting 'DeeplinksRoutersList.swift' (35/183)
-Linting 'DSImageNameResolver.swift' (36/183)
-Linting 'DSTransparentListView.swift' (37/183)
-Linting 'DashBorderedView.swift' (38/183)
-Linting 'RoundButton.swift' (39/183)
-Linting 'BorderedCheckmarksView.swift' (40/183)
-Linting 'TitledTextField.swift' (41/183)
-Linting 'LocalizationHelper.swift' (42/183)
-Linting 'StoreHelper.swift' (43/183)
-Linting 'AnalyticsProvider.swift' (44/183)
-Linting 'MobileUIDGenerator.swift' (45/183)
-Linting 'StartScenarioService.swift' (46/183)
-Linting 'ServicesProvider.swift' (47/183)
+Linting 'DeepLinkManager.swift' (19/168)
+Linting 'DeeplinksRoutersList.swift' (20/168)
+Linting 'DSImageNameResolver.swift' (21/168)
+Linting 'DSTransparentListView.swift' (22/168)
+Linting 'DashBorderedView.swift' (23/168)
+Linting 'RoundButton.swift' (24/168)
+Linting 'BorderedCheckmarksView.swift' (25/168)
+Linting 'TitledTextField.swift' (26/168)
+Linting 'LocalizationHelper.swift' (27/168)
+Linting 'StoreHelper.swift' (28/168)
+Linting 'AnalyticsProvider.swift' (29/168)
+Linting 'MobileUIDGenerator.swift' (30/168)
+Linting 'StartScenarioService.swift' (31/168)
+Linting 'ServicesProvider.swift' (32/168)
 /Users/builder/clone/DiiaOpenSource/AppRouter.swift:752:17: warning: Colon Spacing Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals (colon)
 /Users/builder/clone/DiiaOpenSource/AppRouter.swift:756:1: warning: File Length Violation: File should contain 500 lines or less: currently contains 756 (file_length)
 /Users/builder/clone/DiiaOpenSource/AppRouter.swift:332:13: error: Identifier Name Violation: Variable name 'full_name' should only contain alphanumeric and other allowed characters (identifier_name)
@@ -472,210 +733,202 @@ Linting 'ServicesProvider.swift' (47/183)
 /Users/builder/clone/DiiaOpenSource/AppRouter.swift:541:28: warning: Multiple Closures with Trailing Closure Violation: Trailing closure syntax should not be used when passing more than one closure argument (multiple_closures_with_trailing_closure)
 /Users/builder/clone/DiiaOpenSource/AppRouter.swift:562:24: warning: Multiple Closures with Trailing Closure Violation: Trailing closure syntax should not be used when passing more than one closure argument (multiple_closures_with_trailing_closure)
 /Users/builder/clone/DiiaOpenSource/AppRouter.swift:599:28: warning: Multiple Closures with Trailing Closure Violation: Trailing closure syntax should not be used when passing more than one closure argument (multiple_closures_with_trailing_closure)
-Linting 'TemplateActionFactory.swift' (48/183)
-Linting 'ScreenBrightnessHelper.swift' (49/183)
-Linting 'AccessHelper.swift' (50/183)
-Linting 'CameraAccessChecker.swift' (51/183)
-Linting 'MigrationService.swift' (52/183)
-Linting 'Logging.swift' (53/183)
-Linting 'DiiaIdSigner.swift' (54/183)
-Linting 'JWTParser.swift' (55/183)
+Linting 'TemplateActionFactory.swift' (33/168)
+Linting 'ScreenBrightnessHelper.swift' (34/168)
+Linting 'AccessHelper.swift' (35/168)
+Linting 'CameraAccessChecker.swift' (36/168)
+Linting 'MigrationService.swift' (37/168)
+Linting 'Logging.swift' (38/168)
+Linting 'DiiaIdSigner.swift' (39/168)
+Linting 'JWTParser.swift' (40/168)
 /Users/builder/clone/DiiaOpenSource/Common/Services/AccessCheckers/CameraAccessChecker.swift:17:92: warning: Redundant Void Return Violation: Returning Void in a function declaration is redundant (redundant_void_return)
-Linting 'PaymentManager.swift' (56/183)
+Linting 'PaymentManager.swift' (41/168)
 /Users/builder/clone/DiiaOpenSource/Common/Services/AccessCheckers/AccessHelper.swift:9:117: warning: Redundant Void Return Violation: Returning Void in a function declaration is redundant (redundant_void_return)
 /Users/builder/clone/DiiaOpenSource/Common/Services/AccessCheckers/AccessHelper.swift:20:120: warning: Redundant Void Return Violation: Returning Void in a function declaration is redundant (redundant_void_return)
-Linting 'CrashlyticsErrorRecorder.swift' (57/183)
-Linting 'CommunicationHelper.swift' (58/183)
-Linting 'ContextMenuConfigurable.swift' (59/183)
-Linting 'AppConstants.swift' (60/183)
-Linting 'AppDelegate.swift' (61/183)
-Linting 'AppConfigurator.swift' (62/183)
-Linting 'QRCodeScannerModule.swift' (63/183)
+Linting 'CrashlyticsErrorRecorder.swift' (42/168)
+Linting 'CommunicationHelper.swift' (43/168)
+Linting 'ContextMenuConfigurable.swift' (44/168)
+Linting 'AppConstants.swift' (45/168)
+Linting 'AppDelegate.swift' (46/168)
+Linting 'AppConfigurator.swift' (47/168)
+Linting 'QRCodeScannerModule.swift' (48/168)
 /Users/builder/clone/DiiaOpenSource/Common/Utility/ContextMenuConfigurable.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'QRCodeScannerPresenter.swift' (64/183)
-Linting 'QRCodeScannerViewController.swift' (65/183)
-Linting 'DiiaQRScannerHelper.swift' (66/183)
-Linting 'SplashScreenModule.swift' (67/183)
-Linting 'SplashScreenPresenter.swift' (68/183)
+Linting 'QRCodeScannerPresenter.swift' (49/168)
+Linting 'QRCodeScannerViewController.swift' (50/168)
+Linting 'DiiaQRScannerHelper.swift' (51/168)
+Linting 'SplashScreenPresenter.swift' (52/168)
+Linting 'SplashScreenModule.swift' (53/168)
 /Users/builder/clone/DiiaOpenSource/AppConfigurator.swift:77:1: warning: Trailing Newline Violation: Files should have a single trailing newline (trailing_newline)
-Linting 'SplashScreenViewController.swift' (69/183)
-Linting 'ConstructorMockV2Module.swift' (70/183)
-Linting 'ConstructorMockV2Presenter.swift' (71/183)
-Linting 'FeedNewsDetailsPresenter.swift' (72/183)
-Linting 'FeedNewsDetailsModule.swift' (73/183)
-Linting 'FeedNewsDetailsViewController.swift' (74/183)
-Linting 'FeedOfflineViewBuilder.swift' (75/183)
+Linting 'SplashScreenViewController.swift' (54/168)
+Linting 'ConstructorMockV2Module.swift' (55/168)
+Linting 'ConstructorMockV2Presenter.swift' (56/168)
+Linting 'FeedNewsDetailsPresenter.swift' (57/168)
+Linting 'FeedNewsDetailsModule.swift' (58/168)
+Linting 'FeedNewsDetailsViewController.swift' (59/168)
+Linting 'FeedOfflineViewBuilder.swift' (60/168)
+Linting 'FeedPresenter.swift' (61/168)
+Linting 'FeedModule.swift' (62/168)
 /Users/builder/clone/DiiaOpenSource/Modules/DevTools/ConstructorMock/ConstructorMockV2Module.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'FeedPresenter.swift' (76/183)
-Linting 'FeedModule.swift' (77/183)
-Linting 'FeedViewController.swift' (78/183)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNewsDetails/FeedNewsDetailsModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'FeedNewsResponse.swift' (79/183)
-/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNewsDetails/FeedNewsDetailsPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'FeedAPI.swift' (80/183)
-/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNewsDetails/FeedNewsDetailsViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'FeedViewController.swift' (63/168)
+Linting 'FeedNewsResponse.swift' (64/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedMain/FeedModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'FeedAPIClient.swift' (81/183)
-Linting 'FeedNewsViewController.swift' (82/183)
+Linting 'FeedAPI.swift' (65/168)
+/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNewsDetails/FeedNewsDetailsPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'FeedAPIClient.swift' (66/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedMain/ViewModels/FeedOfflineViewBuilder.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'FeedNewsModule.swift' (83/183)
+Linting 'FeedNewsViewController.swift' (67/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/Common/Models/FeedNewsResponse.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'FeedNewsPresenter.swift' (84/183)
+Linting 'FeedNewsModule.swift' (68/168)
+/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNewsDetails/FeedNewsDetailsViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'FeedNewsPresenter.swift' (69/168)
 /Users/builder/clone/DiiaOpenSource/Modules/DevTools/ConstructorMock/ConstructorMockV2Presenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'SettingsModule.swift' (85/183)
+Linting 'SettingsModule.swift' (70/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/Common/API/FeedAPI.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'SettingsPresenter.swift' (86/183)
+Linting 'SettingsPresenter.swift' (71/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedMain/FeedViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'SettingsViewController.swift' (87/183)
-Linting 'SettingsViewModel.swift' (88/183)
-/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNews/FeedNewsViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'SettingsViewController.swift' (72/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedMain/FeedPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'TitleCellViewModel.swift' (89/183)
-Linting 'SwitchIconedViewModel.swift' (90/183)
+Linting 'SettingsViewModel.swift' (73/168)
+/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNews/FeedNewsModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/Common/API/FeedAPIClient.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/Common/API/FeedAPIClient.swift:37:1: warning: Trailing Newline Violation: Files should have a single trailing newline (trailing_newline)
-Linting 'TitleTableCell.swift' (91/183)
-/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNews/FeedNewsModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'SwitchTableCell.swift' (92/183)
-Linting 'SettingsManager.swift' (93/183)
+Linting 'TitleCellViewModel.swift' (74/168)
+Linting 'SwitchIconedViewModel.swift' (75/168)
+Linting 'TitleTableCell.swift' (76/168)
+/Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNews/FeedNewsViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'SwitchTableCell.swift' (77/168)
+Linting 'SettingsManager.swift' (78/168)
+Linting 'MenuModule.swift' (79/168)
+Linting 'MenuPresenter.swift' (80/168)
+Linting 'MenuViewController.swift' (81/168)
+Linting 'DriverLicenseViewModelFactory.swift' (82/168)
+Linting 'DocumentsStackReorderingPresenter.swift' (83/168)
+Linting 'DocumentsStackReorderingModule.swift' (84/168)
+Linting 'DocumentsStackReorderingViewController.swift' (85/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Feed/FeedNews/FeedNewsPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'MenuModule.swift' (94/183)
-Linting 'MenuPresenter.swift' (95/183)
-Linting 'MenuViewController.swift' (96/183)
-Linting 'DriverLicenseViewModelFactory.swift' (97/183)
-Linting 'DocumentsStackReorderingPresenter.swift' (98/183)
-Linting 'DocumentsStackReorderingModule.swift' (99/183)
-Linting 'DocumentsStackReorderingViewController.swift' (100/183)
-Linting 'DocumentsResponse.swift' (101/183)
-Linting 'DocType.swift' (102/183)
-Linting 'LinkResponse.swift' (103/183)
-Linting 'DocumentsCollectionModuleFactory.swift' (104/183)
+Linting 'DocumentsResponse.swift' (86/168)
+Linting 'DocType.swift' (87/168)
+Linting 'LinkResponse.swift' (88/168)
+Linting 'DocumentsCollectionModuleFactory.swift' (89/168)
+Linting 'SharingDocsAPI.swift' (90/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Documents/Common/Models/LinkResponse.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'SharingDocsAPI.swift' (105/183)
+Linting 'DocumentsAPIClient.swift' (91/168)
+Linting 'DocumentsAPI.swift' (92/168)
+Linting 'SharingDocsAPIClient.swift' (93/168)
+Linting 'DriverReplacementStubModule.swift' (94/168)
+Linting 'AddDocumentsActionProvider.swift' (95/168)
+Linting 'FaqOpener.swift' (96/168)
+Linting 'DocumentsProcessor.swift' (97/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Documents/DocumentsStackReordering/DocumentsStackReorderingViewController.swift:116:23: warning: Unused Optional Binding Violation: Prefer `!= nil` over `let _ =` (unused_optional_binding)
-Linting 'DocumentsAPIClient.swift' (106/183)
-Linting 'DocumentsAPI.swift' (107/183)
-Linting 'SharingDocsAPIClient.swift' (108/183)
-Linting 'DriverReplacementStubModule.swift' (109/183)
-Linting 'AddDocumentsActionProvider.swift' (110/183)
-Linting 'FaqOpener.swift' (111/183)
-Linting 'DocumentsProcessor.swift' (112/183)
-Linting 'DocumentsReservePhotoService.swift' (113/183)
-Linting 'DocumentsLoader.swift' (114/183)
-Linting 'DocumentsReorderingModule.swift' (115/183)
-Linting 'DocumentsReorderingPresenter.swift' (116/183)
-Linting 'DocReorderingCellInfoView.swift' (117/183)
-Linting 'DocumentReorderingCell.swift' (118/183)
-Linting 'MultipleDocReorderingView.swift' (119/183)
-Linting 'DocumentsReorderingViewController.swift' (120/183)
-Linting 'DocumentReorderingService.swift' (121/183)
-Linting 'DocumentReorderingAPIClient.swift' (122/183)
-Linting 'DocumentReorderingAPI.swift' (123/183)
-Linting 'AuthorizationApiClient+Extension.swift' (124/183)
-Linting 'EnterPinCodeModuleContext+Extension.swift' (125/183)
-Linting 'EnterPinCodeAuthDelegate.swift' (126/183)
+Linting 'DocumentsReservePhotoService.swift' (98/168)
+Linting 'DocumentsLoader.swift' (99/168)
+Linting 'DocumentsReorderingModule.swift' (100/168)
+Linting 'DocumentsReorderingPresenter.swift' (101/168)
+Linting 'DocReorderingCellInfoView.swift' (102/168)
+Linting 'DocumentReorderingCell.swift' (103/168)
+Linting 'MultipleDocReorderingView.swift' (104/168)
+Linting 'DocumentsReorderingViewController.swift' (105/168)
+Linting 'DocumentReorderingService.swift' (106/168)
+Linting 'DocumentReorderingAPIClient.swift' (107/168)
+Linting 'DocumentReorderingAPI.swift' (108/168)
+Linting 'AuthorizationApiClient+Extension.swift' (109/168)
+Linting 'EnterPinCodeModuleContext+Extension.swift' (110/168)
+Linting 'EnterPinCodeAuthDelegate.swift' (111/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Documents/DocumentsReordering/View/MultipleDocReorderingView.swift:14:1: warning: Line Length Violation: Line should be 250 characters or less; currently it has 257 characters (line_length)
-Linting 'EnterPinCodeViewModel+Extension.swift' (127/183)
-Linting 'AuthorizationStateHandler.swift' (128/183)
-Linting 'AnaliticsAuthMethodsAdapter.swift' (129/183)
-Linting 'AuthorizationContext+Extension.swift' (130/183)
+Linting 'EnterPinCodeViewModel+Extension.swift' (112/168)
+Linting 'AuthorizationStateHandler.swift' (113/168)
+Linting 'AnaliticsAuthMethodsAdapter.swift' (114/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Documents/DocumentsReordering/DocumentsReorderingViewController.swift:112:23: warning: Unused Optional Binding Violation: Prefer `!= nil` over `let _ =` (unused_optional_binding)
-Linting 'PinCodeStorage.swift' (131/183)
-Linting 'BankIDIdentifyTask.swift' (132/183)
-Linting 'Dictionary+UserIdentifyHandlers.swift' (133/183)
-Linting 'ChangePincodeModuleContext+Extension.swift' (134/183)
-Linting 'UserAuthorizationErrorRouter.swift' (135/183)
-Linting 'AuthorizationStorage.swift' (136/183)
+Linting 'AuthorizationContext+Extension.swift' (115/168)
+Linting 'PinCodeStorage.swift' (116/168)
+Linting 'BankIDIdentifyTask.swift' (117/168)
+Linting 'Dictionary+UserIdentifyHandlers.swift' (118/168)
+Linting 'ChangePincodeModuleContext+Extension.swift' (119/168)
 /Users/builder/clone/DiiaOpenSource/Modules/Documents/DocumentsReordering/Services/DocumentReorderingService.swift:39:13: warning: Prefer For-Where Violation: `where` clauses are preferred over a single `if` inside a `for` (for_where)
-Linting 'BiometryRequestViewModel+Extension.swift' (137/183)
-Linting 'VerificationFlow.swift' (138/183)
-Linting 'ProlongStartModule.swift' (139/183)
-Linting 'ProlongStartViewController.swift' (140/183)
-Linting 'ProlongStartPresenter.swift' (141/183)
-Linting 'MainTabBarPresenter.swift' (142/183)
-Linting 'MainTabBarModule.swift' (143/183)
-Linting 'MainTabAction.swift' (144/183)
-Linting 'MainTabBarViewController.swift' (145/183)
-Linting 'MainTabCollectionCell.swift' (146/183)
-Linting 'PublicServiceCategoriesListModuleFactory.swift' (147/183)
-Linting 'PSCriminalRecordExtractRoute.swift' (148/183)
-Linting 'PublicServiceCoreNetworkContext+Extension.swift' (149/183)
-Linting 'PublicServiceCoreNetworkContext.swift' (150/183)
-Linting 'PublicServiceCategoryViewModel.swift' (151/183)
-Linting 'PublicServiceShortViewModel.swift' (152/183)
-Linting 'PublicServiceSection.swift' (153/183)
-Linting 'PublicServiceResponse.swift' (154/183)
+Linting 'UserAuthorizationErrorRouter.swift' (120/168)
+Linting 'AuthorizationStorage.swift' (121/168)
+Linting 'BiometryRequestViewModel+Extension.swift' (122/168)
+Linting 'VerificationFlow.swift' (123/168)
+Linting 'ProlongStartModule.swift' (124/168)
+Linting 'ProlongStartViewController.swift' (125/168)
+Linting 'ProlongStartPresenter.swift' (126/168)
+Linting 'MainTabBarPresenter.swift' (127/168)
+Linting 'MainTabBarModule.swift' (128/168)
+Linting 'MainTabAction.swift' (129/168)
+Linting 'MainTabBarViewController.swift' (130/168)
+Linting 'MainTabCollectionCell.swift' (131/168)
+Linting 'PublicServiceCategoriesListModuleFactory.swift' (132/168)
+Linting 'PSCriminalRecordExtractRoute.swift' (133/168)
+Linting 'PublicServiceCoreNetworkContext+Extension.swift' (134/168)
+Linting 'PublicServiceCoreNetworkContext.swift' (135/168)
+Linting 'PublicServiceCategoryViewModel.swift' (136/168)
+Linting 'PublicServiceShortViewModel.swift' (137/168)
+Linting 'PublicServiceSection.swift' (138/168)
+Linting 'PublicServiceResponse.swift' (139/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/PublicServiceCoreNetworkContext.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'ServiceInactiveTableCell.swift' (155/183)
-Linting 'ServiceActiveTableCell.swift' (156/183)
-Linting 'PublicServiceCategoriesTopPanel.swift' (157/183)
+Linting 'ServiceInactiveTableCell.swift' (140/168)
+Linting 'ServiceActiveTableCell.swift' (141/168)
+Linting 'PublicServiceCategoriesTopPanel.swift' (142/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/ViewModels/PublicServiceCategoryViewModel.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceShortCollectionCell.swift' (158/183)
+Linting 'PublicServiceShortCollectionCell.swift' (143/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/ViewModels/PublicServiceShortViewModel.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'ServicesSectionDividerCell.swift' (159/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Views/ServiceActiveTableCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceOpenerProtocol.swift' (160/183)
+Linting 'ServicesSectionDividerCell.swift' (144/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Views/ServiceInactiveTableCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServicesStorage.swift' (161/183)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Views/ServiceActiveTableCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceOpenerProtocol.swift' (145/168)
+Linting 'PublicServicesStorage.swift' (146/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Models/PublicServiceResponse.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PortalRedirectionService.swift' (162/183)
-Linting 'PublicServicesAPI.swift' (163/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Protocols/PublicServicesStorage.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServicesAPIClient.swift' (164/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Views/ServicesSectionDividerCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceOpener.swift' (165/183)
+Linting 'PortalRedirectionService.swift' (147/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Models/PublicServiceSection.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceRouteManager.swift' (166/183)
+Linting 'PublicServicesAPI.swift' (148/168)
+Linting 'PublicServicesAPIClient.swift' (149/168)
+Linting 'PublicServiceOpener.swift' (150/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Views/ServicesSectionDividerCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceRouteManager.swift' (151/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Protocols/PublicServiceOpenerProtocol.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServicesCoreContext.swift' (167/183)
-Linting 'PublicServiceSearchViewModel.swift' (168/183)
+Linting 'PublicServicesCoreContext.swift' (152/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Views/PublicServiceShortCollectionCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceSearchPresenter.swift' (169/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/ViewModel/PublicServiceSearchViewModel.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceSearchViewController.swift' (170/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/PublicServicesCoreContext.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceSearchModule.swift' (171/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Utility/PublicServiceRouteManager.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Services/PublicServicesAPIClient.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceSearchTableCell.swift' (172/183)
-Linting 'PublicServiceCategoriesListViewController.swift' (173/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Services/PortalRedirectionService.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceCategoriesListModule.swift' (174/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Utility/PublicServiceOpener.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Protocols/PublicServicesStorage.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceSearchViewModel.swift' (153/168)
+Linting 'PublicServiceSearchPresenter.swift' (154/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Services/PublicServicesAPI.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceCategoriesListPresenter.swift' (175/183)
-Linting 'PublicServiceCategoryViewController.swift' (176/183)
+Linting 'PublicServiceSearchViewController.swift' (155/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Utility/PublicServiceRouteManager.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceSearchModule.swift' (156/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Services/PortalRedirectionService.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceSearchTableCell.swift' (157/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Services/PublicServicesAPIClient.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceCategoriesListViewController.swift' (158/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/PublicServicesCoreContext.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceCategoriesListModule.swift' (159/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/ViewModel/PublicServiceSearchViewModel.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceCategoriesListPresenter.swift' (160/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/PublicServiceSearchModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceCategoryPresenter.swift' (177/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/PublicServiceSearchViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceCategoryModule.swift' (178/183)
+Linting 'PublicServiceCategoryViewController.swift' (161/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/PublicServiceSearchPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategoriesList/PublicServiceCategoriesListModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'PublicServiceType.swift' (179/183)
-Linting 'ContextMenuProvidingView.swift' (180/183)
+Linting 'PublicServiceCategoryPresenter.swift' (162/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Common/Utility/PublicServiceOpener.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'PublicServiceCategoryModule.swift' (163/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/Views/PublicServiceSearchTableCell.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'BaseContextMenuProvider.swift' (181/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategory/PublicServiceCategoryViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'RatingServiceOpener.swift' (182/183)
-/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategory/PublicServiceCategoryPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
-Linting 'EnvironmentVars.swift' (183/183)
+Linting 'PublicServiceType.swift' (164/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategoriesList/PublicServiceCategoriesListModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'ContextMenuProvidingView.swift' (165/168)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategory/PublicServiceCategoryModule.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'BaseContextMenuProvider.swift' (166/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceSearch/PublicServiceSearchViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+Linting 'RatingServiceOpener.swift' (167/168)
+Linting 'EnvironmentVars.swift' (168/168)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategory/PublicServiceCategoryViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategoriesList/PublicServiceCategoriesListViewController.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
+/Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategory/PublicServiceCategoryPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
 /Users/builder/clone/DiiaOpenSource/Modules/PublicServices/Catalog/Modules/PublicServiceCategoriesList/PublicServiceCategoriesListPresenter.swift:1:1: warning: Leading Whitespace Violation: Files should not contain leading whitespace (leading_whitespace)
 :0:0: error: Warning Threshold Violation: Number of warnings exceeded threshold of 30. (warning_threshold)
-Done linting! Found 149 violations, 31 serious in 183 files.
+Done linting! Found 77 violations, 13 serious in 168 files.
 
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/nanopb_nanopb.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/nanopb_nanopb.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/nanopb_nanopb.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
-
-Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Promises_FBLPromises.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Promises_FBLPromises.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-    cd /Users/builder/clone
-    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Promises_FBLPromises.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
-
-Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Kingfisher_Kingfisher.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Kingfisher_Kingfisher.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-    cd /Users/builder/clone
-    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Kingfisher_Kingfisher.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
 
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/SwiftMessages_SwiftMessages.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/SwiftMessages_SwiftMessages.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
@@ -685,9 +938,17 @@ Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtt
     cd /Users/builder/clone
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Promises_Promises.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
 
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Promises_FBLPromises.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Promises_FBLPromises.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+    cd /Users/builder/clone
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Promises_FBLPromises.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
+
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/GoogleUtilities_GoogleUtilities-UserDefaults.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/GoogleUtilities_GoogleUtilities-UserDefaults.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/GoogleUtilities_GoogleUtilities-UserDefaults.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Kingfisher_Kingfisher.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Kingfisher_Kingfisher.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+    cd /Users/builder/clone
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Kingfisher_Kingfisher.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
 
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/GoogleUtilities_GoogleUtilities-Reachability.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/GoogleUtilities_GoogleUtilities-Reachability.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
@@ -726,29 +987,21 @@ Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtt
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -bitcode-strip all -bitcode-strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -resolve-src-symlinks -remove-static-executable /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/lottie-spm/Lottie/Lottie.xcframework/ios-arm64/Lottie.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks
 /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/lottie-spm/Lottie/Lottie.xcframework/ios-arm64/Lottie.framework/Lottie -r -o /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/Lottie.framework/Lottie
 
-Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurementIdentitySupport/GoogleAppMeasurementIdentitySupport.xcframework/ios-arm64/GoogleAppMeasurementIdentitySupport.framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-    cd /Users/builder/clone
-    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -bitcode-strip all -bitcode-strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -resolve-src-symlinks -remove-static-executable /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurementIdentitySupport/GoogleAppMeasurementIdentitySupport.xcframework/ios-arm64/GoogleAppMeasurementIdentitySupport.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks
-note: Injecting stub binary into codeless framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -x c -c /dev/null -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.TJ7GN7K8/Data.noindex/arm64-apple.o
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -dynamiclib -Xlinker -adhoc_codesign -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.TJ7GN7K8/Data.noindex/arm64-apple /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.TJ7GN7K8/Data.noindex/arm64-apple.o
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create -output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.TJ7GN7K8/Data.noindex/arm64-apple
-
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurement.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurement/GoogleAppMeasurement.xcframework/ios-arm64/GoogleAppMeasurement.framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -bitcode-strip all -bitcode-strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -resolve-src-symlinks -remove-static-executable /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurement/GoogleAppMeasurement.xcframework/ios-arm64/GoogleAppMeasurement.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks
 note: Injecting stub binary into codeless framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -x c -c /dev/null -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.FFNrwUoF/Data.noindex/arm64-apple.o
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -dynamiclib -Xlinker -adhoc_codesign -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.FFNrwUoF/Data.noindex/arm64-apple /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.FFNrwUoF/Data.noindex/arm64-apple.o
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create -output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.FFNrwUoF/Data.noindex/arm64-apple
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -x c -c /dev/null -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.WO9JhC0t/Data.noindex/arm64-apple.o
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -dynamiclib -Xlinker -adhoc_codesign -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.WO9JhC0t/Data.noindex/arm64-apple /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.WO9JhC0t/Data.noindex/arm64-apple.o
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create -output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.WO9JhC0t/Data.noindex/arm64-apple
 
-Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/FirebaseAnalytics.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/firebase-ios-sdk/FirebaseAnalytics/FirebaseAnalytics.xcframework/ios-arm64/FirebaseAnalytics.framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurementIdentitySupport/GoogleAppMeasurementIdentitySupport.xcframework/ios-arm64/GoogleAppMeasurementIdentitySupport.framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
-    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -bitcode-strip all -bitcode-strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -resolve-src-symlinks -remove-static-executable /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/firebase-ios-sdk/FirebaseAnalytics/FirebaseAnalytics.xcframework/ios-arm64/FirebaseAnalytics.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -bitcode-strip all -bitcode-strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -resolve-src-symlinks -remove-static-executable /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurementIdentitySupport/GoogleAppMeasurementIdentitySupport.xcframework/ios-arm64/GoogleAppMeasurementIdentitySupport.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks
 note: Injecting stub binary into codeless framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -x c -c /dev/null -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.boVg23HG/Data.noindex/arm64-apple.o
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -dynamiclib -Xlinker -adhoc_codesign -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.boVg23HG/Data.noindex/arm64-apple /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.boVg23HG/Data.noindex/arm64-apple.o
-    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create -output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.boVg23HG/Data.noindex/arm64-apple
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -x c -c /dev/null -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.sTArGb2J/Data.noindex/arm64-apple.o
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -dynamiclib -Xlinker -adhoc_codesign -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.sTArGb2J/Data.noindex/arm64-apple /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.sTArGb2J/Data.noindex/arm64-apple.o
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create -output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.sTArGb2J/Data.noindex/arm64-apple
 
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Firebase_FirebaseInstallations.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseInstallations.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
@@ -758,13 +1011,21 @@ Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtt
     cd /Users/builder/clone
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCrashlytics.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
 
-Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Firebase_FirebaseCoreExtension.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCoreExtension.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/FirebaseAnalytics.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/firebase-ios-sdk/FirebaseAnalytics/FirebaseAnalytics.xcframework/ios-arm64/FirebaseAnalytics.framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
-    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCoreExtension.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -bitcode-strip all -bitcode-strip-tool /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip -resolve-src-symlinks -remove-static-executable /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/SourcePackages/artifacts/firebase-ios-sdk/FirebaseAnalytics/FirebaseAnalytics.xcframework/ios-arm64/FirebaseAnalytics.framework /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks
+note: Injecting stub binary into codeless framework (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -x c -c /dev/null -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.V5mzUpob/Data.noindex/arm64-apple.o
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode-16.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.5.sdk -dynamiclib -Xlinker -adhoc_codesign -target arm64-apple-ios100.0 -o /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.V5mzUpob/Data.noindex/arm64-apple /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.V5mzUpob/Data.noindex/arm64-apple.o
+    /Applications/Xcode-16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create -output /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics /private/var/folders/w2/rrf5p87d1bbfyphxc7jdnyvh0000gn/T/swbuild.tmp.V5mzUpob/Data.noindex/arm64-apple
 
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Firebase_FirebaseCoreInternal.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCoreInternal.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
     builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCoreInternal.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
+
+Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Firebase_FirebaseCoreExtension.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCoreExtension.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+    cd /Users/builder/clone
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCoreExtension.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app
 
 Copy /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/InstallationBuildProductsLocation/Applications/DiiaOpenSource.app/Firebase_FirebaseCore.bundle /Users/builder/Library/Developer/Xcode/DerivedData/DiiaOpenSource-gmwssjwtthseqbchbytyrsswnqri/Build/Intermediates.noindex/ArchiveIntermediates/DiiaOpenSource/BuildProductsPath/Release-iphoneos/Firebase_FirebaseCore.bundle (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
     cd /Users/builder/clone
@@ -852,15 +1113,15 @@ note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEV
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'Collections' from project 'swift-collections')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'BitCollections' from project 'swift-collections')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'Alamofire' from project 'Alamofire')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleAppMeasurementTarget' from project 'GoogleAppMeasurement')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseAnalyticsWrapper' from project 'Firebase')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'FirebaseAnalyticsTarget' from project 'Firebase')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'DiiaUIComponents' from project 'DiiaUIComponents')
+note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
+warning: Run script build phase 'Swiftlint Run Script' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'DiiaDocumentsCore' from project 'DiiaDocuments')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'DiiaDocumentsCommonTypes' from project 'DiiaDocuments')
 note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'DiiaDocuments' from project 'DiiaDocuments')
-note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-Owholemodule, expected -Onone (in target 'GoogleAppMeasurementTarget' from project 'GoogleAppMeasurement')
-note: Disabling previews because SWIFT_VERSION is set and SWIFT_OPTIMIZATION_LEVEL=-O, expected -Onone (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
-warning: Run script build phase 'Swiftlint Run Script' will be run during every build because it does not specify any outputs. To address this issue, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'DiiaOpenSource' from project 'DiiaOpenSource')
 ** ARCHIVE FAILED **
 
 
