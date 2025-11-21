@@ -1,0 +1,54 @@
+workflows:
+  ios-diia-workflow:
+    name: ios-diia unsigned IPA
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+    environment:
+      xcode: 15.4
+      cocoapods: default
+      vars:
+        XCODE_PROJECT: "DiiaOpenSource.xcodeproj"
+        XCODE_SCHEME: "DiiaOpenSource"
+        ARCHIVE_PATH: "$HOME/build/DiiaOpenSource.xcarchive"
+        EXPORT_PATH: "$HOME/build/ipa"
+    triggering:
+      events:
+        - push
+        - pull_request
+      branch_patterns:
+        - pattern: '*'
+          include: true
+    scripts:
+      - name: Clean & Archive (unsigned)
+        script: |
+          set -euo pipefail
+          xcodebuild clean archive \
+            -project "$XCODE_PROJECT" \
+            -scheme "$XCODE_SCHEME" \
+            -archivePath "$ARCHIVE_PATH" \
+            -destination 'generic/platform=iOS' \
+            -configuration Release \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO
+
+      - name: Create IPA bundle
+        script: |
+          set -euo pipefail
+          mkdir -p "$EXPORT_PATH" Payload
+          cp -r "$ARCHIVE_PATH/Products/Applications/"*.app Payload/
+          (cd Payload && zip -r "$EXPORT_PATH/DiiaOpenSource.ipa" .)
+          rm -rf Payload
+          ls -lh "$EXPORT_PATH"
+
+    artifacts:
+      - $EXPORT_PATH/*.ipa
+      - $ARCHIVE_PATH
+
+    publishing:
+      email:
+        recipients:
+          - nutipovottakvot@gmail.com
+        notify:
+          success: true
+          failure: true
