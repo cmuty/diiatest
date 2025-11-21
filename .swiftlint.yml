@@ -3,6 +3,7 @@ warning_threshold: 30
 excluded:
   - DiiaOpenSource/Resources/
   - DiiaOpenSource/Resources/Strings/Localizable.swift
+  - CodeGeneration/
 
 disabled_rules:
   - control_statement
